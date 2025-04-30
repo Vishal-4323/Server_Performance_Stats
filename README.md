@@ -8,5 +8,5 @@ Goal of this project is to write a script to analyze server performance stats
 bash server-stats.sh
 ```
 
-### Project URL
-[https://github.com/Vishal-4323/Server_Performance_Stats](https://github.com/Vishal-4323/Server_Performance_Stats)
+
+https://roadmap.sh/projects/server-stats
